@@ -3,7 +3,6 @@ package termui_addons
 
 import (
 	ui "github.com/gizak/termui"
-	//rw "github.com/mattn/go-runewidth"
 	"strings"
 )
 
